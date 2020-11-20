@@ -1,0 +1,23 @@
+{
+  "name": "javascript-test-stubs",
+  "version": "1.0.0",
+  "description": "javascript-test-stubs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ltopin/javascript-test-stubs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ltopin/javascript-test-stubs/issues"
+  },
+  "homepage": "https://github.com/ltopin/javascript-test-stubs#readme",
+  "devDependencies": {
+    "sinon": "^9.2.1"
+  }
+}
